@@ -1,2 +1,2 @@
 # js-stuff
-Stuff I've been working on javascript. 
+Javascript coding challenges from Freecodecamp
